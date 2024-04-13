@@ -26,16 +26,15 @@ Follow these instructions to set up the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourchatapp.git
-cd yourchatapp
+git clone https://github.com/saumya4751/Connectify.git
+cd Connectify
 
 # Install dependencies
 npm install
 
-# Navigate to the backend folder and start the server
-cd backend
+# To start the server
 npm start
 
 # Open another terminal, navigate to the frontend folder, and start the React app
 cd ../frontend
-npm start
+npm run dev
